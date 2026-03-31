@@ -19,7 +19,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           }`}
         >
-          Студия дизайна интерьеров
+          Ландшафтное бюро
         </p>
 
         {/* Main Headline */}
@@ -28,8 +28,8 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          Пространства,
-          <span className="block text-sage">которые дышат</span>
+          Природа,
+          <span className="block text-sage">которая живёт</span>
         </h1>
 
         {/* Subheadline */}
@@ -38,7 +38,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          Японский минимализм в сочетании со скандинавским теплом. Мы создаём интерьеры, где есть место и смыслу, и красоте.
+          Проектируем сады, парки и территории, где природа и человек существуют в гармонии. Каждый проект — живой организм, созданный на десятилетия.
         </p>
 
         {/* CTA */}
@@ -51,7 +51,7 @@ export function Hero() {
             href="#contact"
             className="group inline-flex items-center gap-3 px-8 py-4 bg-sage text-primary-foreground text-sm tracking-widest uppercase hover:bg-sage/90 transition-all duration-500"
           >
-            Начать проект
+            Обсудить проект
             <svg
               className="w-4 h-4 transition-transform duration-500 group-hover:translate-x-1"
               fill="none"

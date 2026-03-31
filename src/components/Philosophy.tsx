@@ -33,7 +33,7 @@ export function Philosophy() {
           >
             <img
               src="/minimalist-japanese-interior-design-with-natural-w.jpg"
-              alt="Минималистичный интерьер с натуральным деревом"
+              alt="Ландшафтный сад с природными материалами"
               className="absolute inset-0 w-full h-full object-cover"
             />
             {/* Overlay accent */}
@@ -55,10 +55,10 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Искусство
-              <span className="italic"> осознанной</span>
+              Живые
+              <span className="italic"> пространства</span>
               <br />
-              жизни
+              вне времени
             </h2>
 
             <div
@@ -67,13 +67,13 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Мы верим, что ландшафт — это не декорация, а живая система. Каждый сад, парк или территория
+                создаётся так, чтобы становиться красивее с каждым годом.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                Наш подход вдохновлён японской традицией <em className="text-foreground">сатояма</em> — гармоничного
+                сосуществования человека и природы — и скандинавским пониманием
+                <em className="text-foreground"> биофилии</em>, глубинной связи с живым миром.
               </p>
             </div>
 
@@ -84,15 +84,15 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">10</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">85+</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">6</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
               </div>
             </div>
